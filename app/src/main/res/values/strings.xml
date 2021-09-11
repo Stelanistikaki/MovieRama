@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieRama</string>
+    <string name="movieimage">movieImage</string>
+    <string name="dateTextView">TextView</string>
+    <string name="relased_on">Released on:</string>
+    <string name="overview">Overview:</string>
+    <string name="detailed_poster_view">detailed poster view</string>
+    <string name="search_in_movierama">Search in MovieRama...</string>
+    <string name="reviews_about">Reviews about:</string>
+    <string name="similar_movies">Similar Movies:</string>
+</resources>
